@@ -4530,12 +4530,112 @@ LOGICAL FUNCTION
 Logical functions in computing and mathematics are operations that manipulate and return true or false values based on given conditions. They are fundamental for decision-making and control flow in programming, allowing developers to create conditional statements, loops, and complex algorithms. 
 
 ●	And Function (AND): evaluates multiple conditions, returning true only if all are true.
+<table>
+    <tr>
+        <td>ORDER DATE</td>
+        <td>POWER</td>
+        <td>IN RANGE</td>
+    </tr>
+    <tr>
+        <td>1/1/18 0:00</td>
+        <td>380.0477905</td>
+        <td>FALSE</td>
+    </tr>
+    <tr>
+        <td>1/2/18 14:20</td>
+        <td>3421.419922</td>
+        <td>FALSE</td>
+    </tr>
+    <tr>
+        <td>1/4/18 4:00</td>
+        <td>1334.980957</td>
+        <td>FALSE</td>
+    </tr>
+</table>
 
 ●	IsBlank Function (ISBLANK): checks if a cell or field is empty or contains no data, returning TRUE if it's blank and FALSE if it's not.
-
-●	If Function (IF): is used for decision-making based on conditions, returning different values.
+<table>
+    <tr>
+        <td>Theoretical Power Allocated</td>
+    </tr>
+    <tr>
+        <td>No</td>
+    </tr>
+</table>
 
 ●	Sum Function (SUM): function calculates the sum of a range of numbers.
+<table>
+    <tr>
+        <td>THEORETICAL POWER</td>
+        <td>THEORETICAL SUM</td>
+    </tr>
+    <tr>
+        <td>860.4009723</td>
+        <td>6.692947865</td>
+    </tr>
+    <tr>
+        <td>444.8721366</td>
+        <td>7.538290977</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>WIND SPEED</td>
+        <td>WIND DIRECTION</td>
+    </tr>
+    <tr>
+        <td>6.692947865</td>
+        <td>190.7617035</td>
+    </tr>
+    <tr>
+        <td>7.538290977</td>
+        <td>201.2154999</td>
+    </tr>
+</table>
 
 ●	Count If Function (COUNTIF): function counts cells meeting a specified condition.
+<table>
+    <tr>
+        <td>WIIND POWER</td>
+        <td>COUNT IF</td>
+    </tr>
+    <tr>
+        <td>3.24625206</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>5.030583858</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>42</td>
+    </tr>
+</table>
+
+●	If Function (IF): is used for decision-making based on conditions, returning different values.
+<table>
+    <tr>
+        <td>TOTAL POWER</td>
+        <td>X&lt;3</td>
+    </tr>
+    <tr>
+        <td>7.031758785</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>2.185888052</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>9.631019592</td>
+        <td>Yes</td>
+    </tr>
+</table>
 
