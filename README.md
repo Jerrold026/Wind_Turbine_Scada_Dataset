@@ -3,19 +3,19 @@
 # TEXT FUNCTIONS 
 The TEXT function lets you change the way a number appears by applying formatting to it with format codes. It's useful in situations where you want to display numbers in a more readable format, or you want to combine numbers with text or symbols.
 
-Length (LEN):
+●Length (LEN):
 Description: Returns the number of characters in a given cell or text string.
 
-Trim (TRIM):
+●Trim (TRIM):
 Description: Removes any leading or trailing spaces from a text string.
 
-Upper (UPPER):
+●Upper (UPPER):
 Description: Converts all characters in a text string to uppercase.
 
-Lower (LOWER):
+●Lower (LOWER):
 Description: Converts all characters in a text string to lowercase.
 
-Proper (PROPER):
+●Proper (PROPER):
 Description: Capitalizes the first letter of each word in a text string.
 <table>
     <tr>
@@ -4513,15 +4513,29 @@ Math functions are built-in formulas that allow you to perform various mathemati
 These functions are designed to help you manipulate and analyze numerical values in your spreadsheets. 
 Excel provides a wide range of math functions that cover basic arithmetic operations, statistical calculations, financial calculations, and more.
 
-Sum Function (SUM): Description: Adds up a range of numbers.
+●Sum Function (SUM): Description: Adds up a range of numbers.
 
-Count Function (COUNT): Description: Count of values that are number, generally cells that contain number.
-Even Function (EVEN): Description: Used to round a number up to the nearest even integer.
+●Count Function (COUNT): Description: Count of values that are number, generally cells that contain number.
+●Even Function (EVEN): Description: Used to round a number up to the nearest even integer.
 It is particularly useful when you want to ensure that a number is even, regardless of whether it's originally an even or odd number.
 
-Product Function (PRODUCT): Description: Used to calculate the product of a range of numbers.
+●Product Function (PRODUCT): Description: Used to calculate the product of a range of numbers.
 It takes multiple numeric arguments and returns their product, which is the result of multiplying all the numbers together.
 
-Median Function (MEDIAN): Description: Used to calculate the median of a set of numbers. The median is the middle value in a data set when the numbers are arranged in ascending or descending order. 
+●Median Function (MEDIAN): Description: Used to calculate the median of a set of numbers. The median is the middle value in a data set when the numbers are arranged in ascending or descending order. 
 If there is an even number of values, the median is the average of the two middle values.
+
+# LOGICAL FUNCTIONS
+LOGICAL FUNCTION
+Logical functions in computing and mathematics are operations that manipulate and return true or false values based on given conditions. They are fundamental for decision-making and control flow in programming, allowing developers to create conditional statements, loops, and complex algorithms. 
+
+●	And Function (AND): evaluates multiple conditions, returning true only if all are true.
+
+●	IsBlank Function (ISBLANK): checks if a cell or field is empty or contains no data, returning TRUE if it's blank and FALSE if it's not.
+
+●	If Function (IF): is used for decision-making based on conditions, returning different values.
+
+●	Sum Function (SUM): function calculates the sum of a range of numbers.
+
+●	Count If Function (COUNTIF): function counts cells meeting a specified condition.
 
