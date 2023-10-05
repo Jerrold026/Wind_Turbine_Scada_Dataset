@@ -9156,7 +9156,36 @@ It returns `TRUE` if the evaluated cell contains any type of error and `FALSE` o
     </tr>
 </table>
 
+# TIME AND DATE FUNCTIONS
+Time and Date functions are a group of built-in functions that allow you to work with time and date values in various ways. 
+These functions are particularly useful for performing calculations, formatting, and manipulating time and date data in your spreadsheets.
 
+●Hour Function (HOUR): Description: Returns the hour portion of a time value.
+
+●Minute Function (MINUTE): Description: Returns the minute portion of a time value.
+
+●Day Function (DAY): Description: Returns the day portion of a date value.
+
+●WeekDay Function (WEEKDAY): Description: Used to find the day of the week corresponding to a given date. 
+It returns a number that represents the day of the week, where Sunday is typically represented as 1, Monday as 2, and so on, up to Saturday as 7. 
+You can adjust the numbering scheme and starting day of the week using optional arguments.
+
+●WeekNum Function (WEEKNUM): Description: Used to determine the week number of a specific date within a year. 
+It allows you to find out which week a given date falls into, and it can be helpful in various scheduling, project management, or date-related tasks.
+
+# LOOKUP FUNCTIONS
+Lookup functions are used in various software applications, to find and retrieve information from a dataset based on specific criteria.
+These functions help streamline data retrieval and are often used in data analysis, reporting, and decision-making processes.
+
+●	Look Up Function (LOOKUP): Searches for a value in a specified range and returns a corresponding value.
+
+●	VLookUp Function (VLOOKUP): Searches for a value in a vertical column and returns a related value from the same row.
+
+●	Match Function (MATCH): Identifies the relative position of an item in a range.
+
+●	Address Function (ADDRESS): Generates a cell address based on specified row and column numbers.
+
+●	Column Function (COLUMN): Returns the column number of a given cell reference.
 
 
 
