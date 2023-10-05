@@ -9178,14 +9178,204 @@ Lookup functions are used in various software applications, to find and retrieve
 These functions help streamline data retrieval and are often used in data analysis, reporting, and decision-making processes.
 
 ●	Look Up Function (LOOKUP): Searches for a value in a specified range and returns a corresponding value.
+<table>
+    <tr>
+        <td>DATE</td>
+        <td>1/1/18 0:00</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>380.0477905</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/1/18 14:10</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>1109.128052</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/2/18 8:20</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>3567.967041</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/3/18 7:30</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>3445.219971</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/3/18 21:40</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>1960.692993</td>
+    </tr>
+</table>
 
 ●	VLookUp Function (VLOOKUP): Searches for a value in a vertical column and returns a related value from the same row.
+<table>
+    <tr>
+        <td>DATE</td>
+        <td>1/1/18 0:00</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>5.31133604</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/2/18 8:20</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>43102.34722</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/3/18 7:30</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>180.7583008</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/1/18 14:10</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>1109.128052</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/3/18 21:40</td>
+    </tr>
+    <tr>
+        <td>Active Power</td>
+        <td>2268.199522</td>
+    </tr>
+</table>
 
 ●	Match Function (MATCH): Identifies the relative position of an item in a range.
+<table>
+    <tr>
+        <td>DATE</td>
+        <td>1/1/18 0:00</td>
+    </tr>
+    <tr>
+        <td>FORMULA</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/2/18 8:20</td>
+    </tr>
+    <tr>
+        <td>FORMULA</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/3/18 21:40</td>
+    </tr>
+    <tr>
+        <td>FORMULA</td>
+        <td>1</td>
+    </tr>
+</table>
 
 ●	Address Function (ADDRESS): Generates a cell address based on specified row and column numbers.
+<table>
+    <tr>
+        <td>DATE</td>
+        <td>1/1/18 0:00</td>
+    </tr>
+    <tr>
+        <td>ADDRESS</td>
+        <td>$B$2</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/2/18 8:20</td>
+    </tr>
+    <tr>
+        <td>ADDRESS</td>
+        <td>$B$10</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DATE</td>
+        <td>1/3/18 21:40</td>
+    </tr>
+    <tr>
+        <td>ADDRESS</td>
+        <td>$CD$300</td>
+    </tr>
+</table>
 
 ●	Column Function (COLUMN): Returns the column number of a given cell reference.
+<table>
+    <tr>
+        <td>COLUMN</td>
+        <td>1</td>
+    </tr>
+</table>
 
 
 
