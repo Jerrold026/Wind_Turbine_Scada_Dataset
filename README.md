@@ -1,5 +1,6 @@
 # MIDTERM EXAM
 
+
 # TEXT FUNCTIONS 
 The TEXT function lets you change the way a number appears by applying formatting to it with format codes. It's useful in situations where you want to display numbers in a more readable format, or you want to combine numbers with text or symbols.
 
@@ -4638,4 +4639,27 @@ Logical functions in computing and mathematics are operations that manipulate an
         <td>Yes</td>
     </tr>
 </table>
+
+# INFORMATION FUNCTIONS 
+"Information Functions" refer to a group of functions that provide specific information about data or the environment within a spreadsheet. 
+These functions are useful for gathering details about cells, ranges, and workbook properties. 
+
+Here are some common information functions in Excel:
+
+●ISERROR: The `ISERROR` function in Excel is used to check if a cell contains an error value. 
+It returns `TRUE` if the evaluated cell contains any type of error and `FALSE` otherwise.
+
+●ISNA: The ISNA function checks if a value is #N/A (Not Available). It returns TRUE if the value is #N/A and FALSE otherwise.
+
+●ISEVEN: The ISEVEN function is used to check if a number is even. It returns TRUE if the number is even and FALSE if it's odd.
+
+●ISODD: The ISODD function is used to check if a number is odd. It returns TRUE if the number is odd and FALSE if it's even.
+
+●ISTEXT: The ISTEXT function checks if a value is text. It returns TRUE if the value is text and FALSE if it's not.
+
+
+
+
+
+
 
