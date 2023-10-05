@@ -1,3 +1,8 @@
+![Wind Turbine GIF](https://cdn.pixabay.com/animation/2023/03/17/02/19/02-19-19-487_512.gif)
+
+
+
+
 # MIDTERM EXAM
 
 
@@ -9376,6 +9381,7 @@ These functions help streamline data retrieval and are often used in data analys
         <td>1</td>
     </tr>
 </table>
+
 
 
 
