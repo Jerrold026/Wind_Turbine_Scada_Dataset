@@ -4509,4 +4509,19 @@ Description: Capitalizes the first letter of each word in a text string.
 </table>
 
 # MATH FUNCTIONS 
+Math functions are built-in formulas that allow you to perform various mathematical operations and calculations on your data. 
+These functions are designed to help you manipulate and analyze numerical values in your spreadsheets. 
+Excel provides a wide range of math functions that cover basic arithmetic operations, statistical calculations, financial calculations, and more.
+
+Sum Function (SUM): Description: Adds up a range of numbers.
+
+Count Function (COUNT): Description: Count of values that are number, generally cells that contain number.
+Even Function (EVEN): Description: Used to round a number up to the nearest even integer.
+It is particularly useful when you want to ensure that a number is even, regardless of whether it's originally an even or odd number.
+
+Product Function (PRODUCT): Description: Used to calculate the product of a range of numbers.
+It takes multiple numeric arguments and returns their product, which is the result of multiplying all the numbers together.
+
+Median Function (MEDIAN): Description: Used to calculate the median of a set of numbers. The median is the middle value in a data set when the numbers are arranged in ascending or descending order. 
+If there is an even number of values, the median is the average of the two middle values.
 
