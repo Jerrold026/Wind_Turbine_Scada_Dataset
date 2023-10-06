@@ -433,10 +433,6 @@ Math functions are built-in formulas that allow you to perform various mathemati
 These functions are designed to help you manipulate and analyze numerical values in your spreadsheets. 
 Excel provides a wide range of math functions that cover basic arithmetic operations, statistical calculations, financial calculations, and more.
 
-●Sum Function (SUM): Description: Adds up a range of numbers.
-
-●Count Function (COUNT): Description: Count of values that are number, generally cells that contain number.
-
 ●Even Function (EVEN): Description: Used to round a number up to the nearest even integer.
 It is particularly useful when you want to ensure that a number is even, regardless of whether it's originally an even or odd number.
 
@@ -445,6 +441,10 @@ It takes multiple numeric arguments and returns their product, which is the resu
 
 ●Median Function (MEDIAN): Description: Used to calculate the median of a set of numbers. The median is the middle value in a data set when the numbers are arranged in ascending or descending order. 
 If there is an even number of values, the median is the average of the two middle values.
+
+●Sum Function (SUM): Description: Adds up a range of numbers.
+
+●Count Function (COUNT): Description: Count of values that are number, generally cells that contain number.
 
 <table>
     <tr>
