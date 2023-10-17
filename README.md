@@ -17142,3 +17142,7 @@ Wind Direction (°): The wind direction at the hub height of the turbine (wind t
     </tr>
 </table>
 
+# Chart of Variable Date/Time and LV Active Power 
+![lv active ](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/4800bf96-cb86-4a91-a139-803c35139bae)
+
+A chart of "Variable Date/Time" and "LV Active Power" typically represents a graphical representation of how the Low Voltage (LV) Active Power in a system changes over time. 
