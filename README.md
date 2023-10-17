@@ -1,9 +1,25 @@
+# MIDTERM EXAM
+
 ![Wind Turbine GIF](https://cdn.pixabay.com/animation/2023/03/17/02/19/02-19-19-487_512.gif)
 
+SCADA stands for Supervisory Control and Data Acquisition. It's a system used in various industries, including energy production, to monitor and control processes. When it comes to wind turbines, a Wind Turbine SCADA system is specifically designed to manage and optimize the operation of wind farms.
+Why it is related to Engineering?
+
+1. Monitoring and Control: Wind Turbine SCADA systems allow engineers to monitor the performance of individual turbines and the entire wind farm in real-time. This includes parameters like wind speed, power output, temperature, and more. Engineers can also remotely control various aspects of the turbines, such as starting, stopping, and adjusting blade pitch.
+
+2. Data Acquisition: SCADA systems collect a vast amount of data from the turbines. Engineers use this data for various purposes, including performance analysis, maintenance scheduling, and even for research and development.
+
+3. Optimization: Engineers use SCADA data to optimize the operation of wind turbines. For example, they can adjust the pitch of the blades or the angle of the nacelle to extract the maximum amount of energy from the wind. This requires a deep understanding of aerodynamics and mechanical engineering.
+
+4. Predictive Maintenance: Engineers use SCADA data to predict when maintenance is needed. By analyzing trends and patterns, they can anticipate when components are likely to fail and schedule maintenance accordingly. This helps in preventing costly breakdowns.
+
+5. Safety and Security: Engineers use SCADA systems to ensure the safe operation of wind turbines. They can monitor various safety parameters and implement emergency shutdown procedures if necessary.
+
+In summary, Wind Turbine SCADA is an integral part of the engineering process for wind energy generation. It enables engineers to monitor, control, and optimize the performance of wind turbines, ensuring they operate efficiently and safely. It requires a multidisciplinary approach, involving expertise in fields like electrical, mechanical, control, and even civil engineering.
 
 
 
-# MIDTERM EXAM
+
 
 
 # TEXT FUNCTIONS 
@@ -13183,23 +13199,6 @@ These functions help streamline data retrieval and are often used in data analys
         <td>1</td>
     </tr>
 </table>
-
-# Wind Turbine Scada
-
-SCADA stands for Supervisory Control and Data Acquisition. It's a system used in various industries, including energy production, to monitor and control processes. When it comes to wind turbines, a Wind Turbine SCADA system is specifically designed to manage and optimize the operation of wind farms.
-Why it is related to Engineering?
-
-1. Monitoring and Control: Wind Turbine SCADA systems allow engineers to monitor the performance of individual turbines and the entire wind farm in real-time. This includes parameters like wind speed, power output, temperature, and more. Engineers can also remotely control various aspects of the turbines, such as starting, stopping, and adjusting blade pitch.
-
-2. Data Acquisition: SCADA systems collect a vast amount of data from the turbines. Engineers use this data for various purposes, including performance analysis, maintenance scheduling, and even for research and development.
-
-3. Optimization: Engineers use SCADA data to optimize the operation of wind turbines. For example, they can adjust the pitch of the blades or the angle of the nacelle to extract the maximum amount of energy from the wind. This requires a deep understanding of aerodynamics and mechanical engineering.
-
-4. Predictive Maintenance: Engineers use SCADA data to predict when maintenance is needed. By analyzing trends and patterns, they can anticipate when components are likely to fail and schedule maintenance accordingly. This helps in preventing costly breakdowns.
-
-5. Safety and Security: Engineers use SCADA systems to ensure the safe operation of wind turbines. They can monitor various safety parameters and implement emergency shutdown procedures if necessary.
-
-In summary, Wind Turbine SCADA is an integral part of the engineering process for wind energy generation. It enables engineers to monitor, control, and optimize the performance of wind turbines, ensuring they operate efficiently and safely. It requires a multidisciplinary approach, involving expertise in fields like electrical, mechanical, control, and even civil engineering.
 
 
 # About Dataset
