@@ -17166,6 +17166,5 @@ A chart of "Variable Date/Time" and "Theoretical Power Curve (kWh)" would typica
 A chart of "Variable Date/Time" and "Wind Direction" would represent how the direction of the wind changes over time. 
 
 # Main Dashboard 
-![main dashboard](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/54493355-91fa-491f-a4f2-0dd473bbc658)
-
+![main dashboard](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/a7b660e1-6dbf-4308-b07c-4bf30ef5cdf7)
 
