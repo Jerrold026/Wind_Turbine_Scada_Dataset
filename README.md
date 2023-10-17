@@ -17145,4 +17145,26 @@ Wind Direction (°): The wind direction at the hub height of the turbine (wind t
 # Chart of Variable Date/Time and LV Active Power 
 ![lv active ](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/4800bf96-cb86-4a91-a139-803c35139bae)
 
+
 A chart of "Variable Date/Time" and "LV Active Power" typically represents a graphical representation of how the Low Voltage (LV) Active Power in a system changes over time. 
+
+# Chart of Variable Date/Time and Windspeed (m/s)
+![windspeed](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/6f9b7368-e0ab-4728-84a2-0875debdfeaa)
+
+
+A chart of "Variable Date/Time" and "Windspeed (m/s)" would show how the wind speed changes over time.
+
+# Chart of Variable Date/Time and Theoretical Power Curve (KWh)
+![theoretical power ](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/57ce9b69-15aa-49a4-9369-8f7cfbe0aad4)
+
+A chart of "Variable Date/Time" and "Theoretical Power Curve (kWh)" would typically depict how the theoretical power output of a system varies over time.
+
+# Chart of Variable Date/Time and Wind Direction 
+![wind direction](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/d92f193f-8773-434b-92a4-30699a3c5df7)
+
+A chart of "Variable Date/Time" and "Wind Direction" would represent how the direction of the wind changes over time. 
+
+# Main Dashboard 
+![main dashboard](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/54493355-91fa-491f-a4f2-0dd473bbc658)
+
+
