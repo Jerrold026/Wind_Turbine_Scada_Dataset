@@ -7466,30 +7466,34 @@ Wind Direction (°): The wind direction at the hub height of the turbine (wind t
 </table>
 
 # Chart of Variable Date/Time and LV Active Power 
-![lv](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/e6053572-124f-4c5d-98b4-b00684fc3059)
+![lv active ](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/02d8b70b-69a0-4381-843c-a6c53ecafc58)
+
 
 
 A chart of "Variable Date/Time" and "LV Active Power" typically represents a graphical representation of how the Low Voltage (LV) Active Power in a system changes over time. 
 
 # Chart of Variable Date/Time and Windspeed (m/s)
-![windspeed](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/c86e30d0-fe04-4d3e-b4a9-9243adb9f079)
+![windspeed](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/26ccc377-c1bb-4ca9-8efc-1df5127ddce5)
+
 
 
 A chart of "Variable Date/Time" and "Windspeed (m/s)" would show how the wind speed changes over time.
 
 # Chart of Variable Date/Time and Theoretical Power Curve (KWh)
-![theoretical power ](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/94a90be6-3e76-4d2f-867e-3c1361921013)
+![theoretical power ](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/416fa968-ba4c-4377-84a7-a02546b007a4)
+
 
 
 A chart of "Variable Date/Time" and "Theoretical Power Curve (kWh)" would typically depict how the theoretical power output of a system varies over time.
 
 # Chart of Variable Date/Time and Wind Direction 
-![wind direction](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/985ee8e6-4859-4ed8-bb1e-610bf1e37ad4)
+![wind direction](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/e2b7676c-258d-41a6-89b0-752defd5d2e4)
+
 
 
 A chart of "Variable Date/Time" and "Wind Direction" would represent how the direction of the wind changes over time. 
 
 # Main Dashboard 
-![main dashboard](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/fb3ae56f-f43f-4057-9f8b-3f1e4cff9ab7)
+![main dashboard](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/512e42db-1fd8-46a2-8da1-f661cc45b78f)
 
 
