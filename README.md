@@ -7496,4 +7496,7 @@ A chart of "Variable Date/Time" and "Wind Direction" would represent how the dir
 # Main Dashboard 
 ![main dashboard](https://github.com/Jerrold026/Wind_Turbine_Scada_Dataset/assets/143669000/512e42db-1fd8-46a2-8da1-f661cc45b78f)
 
+# Source 
+Wind turbine Scada Dataset. (2019, March 7). Kaggle. https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
+
 
