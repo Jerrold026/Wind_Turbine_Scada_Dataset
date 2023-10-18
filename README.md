@@ -1863,7 +1863,7 @@ Logical functions in computing and mathematics are operations that manipulate an
 <table>
     <tr>
         <td>TOTAL POWER</td>
-        <td>X&lt;3</td>
+        <td>X&gt;3</td>
     </tr>
     <tr>
         <td>7.031758785</td>
