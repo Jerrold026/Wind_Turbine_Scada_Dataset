@@ -1,5 +1,9 @@
 # MIDTERM EXAM
 
+Group 4 
+
+MEXE-4101
+
 ![Wind Turbine GIF](https://cdn.pixabay.com/animation/2023/03/17/02/19/02-19-19-487_512.gif)
 
 SCADA stands for Supervisory Control and Data Acquisition. It's a system used in various industries, including energy production, to monitor and control processes. When it comes to wind turbines, a Wind Turbine SCADA system is specifically designed to manage and optimize the operation of wind farms.
